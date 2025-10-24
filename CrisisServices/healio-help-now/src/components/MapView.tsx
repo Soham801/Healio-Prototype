@@ -5,7 +5,7 @@ import { toast } from "sonner";
 import { ScrollArea } from "@/components/ui/scroll-area";
 
 // Add your Google Maps API key here
-const GOOGLE_MAPS_API_KEY = "AIzaSyB3e_2DSchesDCJwh8EyEfRRUP6PsbR2XQ";
+const GOOGLE_MAPS_API_KEY = "YOUR_MAPS_API_KEY";
 
 interface MapViewProps {
   serviceType: string;
